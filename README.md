@@ -1,1 +1,1 @@
-"# codewars_solutions" 
+Codewars Solutions written (mainly) in Python and PostgreSQL
