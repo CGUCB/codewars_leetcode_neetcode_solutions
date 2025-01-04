@@ -21,6 +21,7 @@ class Solution(object):
             p[i] += p[i - 1]
         
         for i, c in enumerate(s):
-            res.append(chr(((ord(c) - 97 + p[i]) % 26) + 97))
+            ind = (ord(c) - 97 + p[i]) % 26
+            res.append(chr(ind + 97))
         
         return ''.join(res)
