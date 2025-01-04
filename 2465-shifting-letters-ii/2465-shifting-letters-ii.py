@@ -5,27 +5,22 @@ class Solution(object):
         :type shifts: List[List[int]]
         :rtype: str
         """
-        ps = [0 for _ in range(len(s))]
-        sn = [ord(c) - 97 for c in s]
+        N = len(s)
+        p = [0] * (N + 1)
         res = []
 
-        # Put start and end of shifts in ps
-        for r in shifts:
-            d = r[2] if r[2] == 1 else -1    
-            ps[r[0]] += d
-            if (r[1] + 1) < len(ps):
-                ps[r[1] + 1] -= d
+        for st, e, d in shifts:
+            if d == 1:
+                p[st] += 1
+                p[e + 1] -= 1
+            else:
+                p[st] -= 1
+                p[e + 1] += 1
         
-        # Prefix sum through all shifts
-        for i in range(1, len(ps)):
-            ps[i] += ps[i - 1]
-
-        # Apply to ordinal versions and 
-        # convert back to strings
-        for x, y in zip(sn, ps):
-            c = x + y
-            while c < 0:
-                c += 26
-            res.append(chr(97 + c % 26))
+        for i in range(1, N):
+            p[i] += p[i - 1]
+        
+        for i, c in enumerate(s):
+            res.append(chr(((ord(c) - 97 + p[i]) % 26) + 97))
         
         return ''.join(res)
