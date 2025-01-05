@@ -58,4 +58,8 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
