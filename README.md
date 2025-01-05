@@ -6,6 +6,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0792-binary-search](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0792-binary-search) |
 | [2465-shifting-letters-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2465-shifting-letters-ii) |
 ## Queue
 |  |
@@ -39,4 +40,8 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [2465-shifting-letters-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2465-shifting-letters-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
