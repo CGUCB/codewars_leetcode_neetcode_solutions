@@ -62,4 +62,5 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0175-combine-two-tables) |
+| [1153-product-sales-analysis-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
