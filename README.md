@@ -7,6 +7,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0792-binary-search](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0792-binary-search) |
+| [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2465-shifting-letters-ii) |
 ## Queue
@@ -37,6 +38,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 ## String
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2465-shifting-letters-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
@@ -67,4 +69,8 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [0185-department-top-three-salaries](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0185-department-top-three-salaries) |
 | [0608-tree-node](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0608-tree-node) |
 | [1153-product-sales-analysis-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1153-product-sales-analysis-i) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
