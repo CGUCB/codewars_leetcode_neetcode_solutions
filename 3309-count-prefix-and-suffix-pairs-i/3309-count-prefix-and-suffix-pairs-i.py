@@ -5,12 +5,7 @@ class Solution:
             N1, N2 = len(s1), len(s2)
             if N1 > N2:
                 return False
-            for i in range(N1):
-                if s1[i] != s2[i]:
-                    return False
-                if s1[N1 - i - 1] != s2[N2 - i - 1]:
-                    return False
-            return True
+            return (s1 == s2[:N1]) and (s1 == s2[-N1:])
 
         r = 0
         for j in range(len(words)):
