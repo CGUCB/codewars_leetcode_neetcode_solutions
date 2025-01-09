@@ -8,6 +8,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [0239-sliding-window-maximum](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0792-binary-search](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0792-binary-search) |
 | [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -41,6 +42,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
@@ -75,6 +77,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
