@@ -43,6 +43,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2465-shifting-letters-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
@@ -92,4 +93,12 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Table
+|  |
+| ------- |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+## Counting
+|  |
+| ------- |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 <!---LeetCode Topics End-->
