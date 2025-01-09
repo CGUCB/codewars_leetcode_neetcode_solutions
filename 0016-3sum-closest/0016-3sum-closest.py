@@ -6,9 +6,9 @@ class Solution:
             j, k = i + 1, N - 1
             while j < k:
                 cj, ck = nums[j], nums[k]
-                if abs(nt - cj - ck) < d:
-                    r = cj + ck - nt + target
-                    d = abs(cj + ck - nt)
+                nd = cj + ck - nt
+                if abs(nd) < d:
+                    r, d = nd + target, abs(nd)
                 if cj + ck > nt:
                     k -= 1
                 else:
