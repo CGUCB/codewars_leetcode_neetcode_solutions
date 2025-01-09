@@ -6,4 +6,4 @@ class Solution:
             d[c] += 1
         for c in t:
             d[c] -= 1
-        return sum([abs(x) for x in d.values()])
+        return sum(map(abs, d.values()))
