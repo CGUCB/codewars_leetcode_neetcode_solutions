@@ -5,6 +5,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0016-3sum-closest) |
 | [0239-sliding-window-maximum](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0792-binary-search](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0792-binary-search) |
 | [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
@@ -101,4 +102,12 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
