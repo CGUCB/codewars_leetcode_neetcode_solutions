@@ -8,6 +8,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [0016-3sum-closest](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0016-3sum-closest) |
 | [0239-sliding-window-maximum](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0792-binary-search](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0792-binary-search) |
+| [0952-word-subsets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -41,6 +42,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -97,6 +99,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0952-word-subsets) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Counting
 |  |
