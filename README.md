@@ -43,6 +43,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -67,6 +68,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 ## Greedy
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 ## Database
 |  |
@@ -100,10 +102,12 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Two Pointers
 |  |
