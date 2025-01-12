@@ -35,6 +35,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0155-min-stack) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Design
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [1502-construct-k-palindrome-strings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2465-shifting-letters-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2465-shifting-letters-ii) |
@@ -69,6 +71,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 ## Database
 |  |
