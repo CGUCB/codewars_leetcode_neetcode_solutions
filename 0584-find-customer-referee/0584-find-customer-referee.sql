@@ -4,4 +4,5 @@ SELECT
 FROM
     Customer
 WHERE
-    COALESCE(referee_id, -1) != 2
+    ISNULL(referee_id) OR
+    referee_id != 2
