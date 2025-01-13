@@ -82,6 +82,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [0177-nth-highest-salary](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0185-department-top-three-salaries) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0584-find-customer-referee) |
 | [0608-tree-node](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0608-tree-node) |
 | [1153-product-sales-analysis-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1153-product-sales-analysis-i) |
