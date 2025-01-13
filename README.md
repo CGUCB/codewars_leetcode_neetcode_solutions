@@ -84,6 +84,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [0185-department-top-three-salaries](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0185-department-top-three-salaries) |
 | [0608-tree-node](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0608-tree-node) |
 | [1153-product-sales-analysis-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1153-product-sales-analysis-i) |
+| [1908-recyclable-and-low-fat-products](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## String Matching
 |  |
 | ------- |
