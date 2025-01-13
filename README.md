@@ -52,6 +52,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2465-shifting-letters-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,11 +108,13 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [0952-word-subsets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
