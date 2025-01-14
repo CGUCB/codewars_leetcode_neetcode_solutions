@@ -13,6 +13,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [2292-counting-words-with-a-given-prefix](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2465-shifting-letters-ii) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Queue
 |  |
@@ -114,6 +115,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [0952-word-subsets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -129,4 +131,8 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0016-3sum-closest) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
