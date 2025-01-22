@@ -11,6 +11,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [0952-word-subsets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2145-grid-game](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2465-shifting-letters-ii) |
@@ -63,6 +64,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2145-grid-game](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2465-shifting-letters-ii) |
 ## Binary Search
 |  |
@@ -148,4 +150,8 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Matrix
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
