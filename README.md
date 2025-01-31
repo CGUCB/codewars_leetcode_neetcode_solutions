@@ -160,4 +160,13 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [1876-map-of-highest-peak](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1876-map-of-highest-peak) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Union Find
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Graph
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 <!---LeetCode Topics End-->
