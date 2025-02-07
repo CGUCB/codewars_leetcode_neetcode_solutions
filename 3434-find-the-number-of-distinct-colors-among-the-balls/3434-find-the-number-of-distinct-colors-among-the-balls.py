@@ -11,8 +11,6 @@ class Solution:
             if pc == -1:
                 b[x] = y
                 c[y] += 1
-                if c[y] == 1:
-                    cur += 1
             
             # If already has color, we need add these changes to c
             # Then chance in b
@@ -20,13 +18,13 @@ class Solution:
                 c[pc] -= 1
                 if not c[pc]: # If last color to exist
                     cur -= 1
-                
+
                 c[y] += 1
-                if c[y] == 1: # If a new color is added
-                    cur += 1
-                
                 b[x] = y
             
+            if c[y] == 1: # If a new color is added
+                cur += 1
+
             r.append(cur)
         
         return r[1:]
