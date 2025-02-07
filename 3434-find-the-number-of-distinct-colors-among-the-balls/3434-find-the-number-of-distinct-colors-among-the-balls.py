@@ -2,7 +2,9 @@ from collections import defaultdict
 class Solution:
     def queryResults(self, limit: int, queries: List[List[int]]) -> List[int]:
 
-        b, c, r = defaultdict(lambda : -1), defaultdict(lambda : 0), [None] * len(queries)
+        b = defaultdict(lambda : -1)
+        c = defaultdict(lambda : 0)
+        r = [None] * len(queries)
 
         for i, (x,y) in enumerate(queries):
 
@@ -17,12 +19,4 @@ class Solution:
             c[y] += 1
             r[i] = len(c)
         
-        return r
-
-                
-            
-
-
-
-
-        
+        return r 
