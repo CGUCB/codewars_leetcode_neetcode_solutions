@@ -9,6 +9,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [0239-sliding-window-maximum](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0792-binary-search](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0792-binary-search) |
 | [0952-word-subsets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1524-string-matching-in-an-array](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -123,6 +124,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -131,6 +133,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
