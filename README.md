@@ -20,6 +20,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Queue
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [1502-construct-k-palindrome-strings](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -169,4 +171,8 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 |  |
 | ------- |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
