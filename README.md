@@ -102,6 +102,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [1153-product-sales-analysis-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1258-article-views-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2087-confirmation-rate) |
