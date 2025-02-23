@@ -16,5 +16,8 @@ SELECT
     person_name
 FROM 
     CTE
-WHERE 
-    turn IN (SELECT MAX(turn) FROM CTE WHERE cumsum <= 1000)
+WHERE
+    cumsum <= 1000
+ORDER BY
+    turn DESC
+LIMIT 1
