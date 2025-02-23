@@ -105,6 +105,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [1155-product-sales-analysis-iii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1258-article-views-i) |
+| [1278-product-price-at-a-given-date](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1292-immediate-food-delivery-ii) |
 | [1415-students-and-examinations](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
