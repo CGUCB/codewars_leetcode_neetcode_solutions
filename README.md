@@ -110,6 +110,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [1292-immediate-food-delivery-ii](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1292-immediate-food-delivery-ii) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1801-average-time-of-process-per-machine) |
