@@ -119,6 +119,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1827-invalid-tweets) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2087-confirmation-rate) |
