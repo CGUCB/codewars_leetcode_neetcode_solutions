@@ -113,6 +113,7 @@ Codewars, Neetcode, and Leetcode Solutions written (mainly) in Python and SQL
 | [1801-average-time-of-process-per-machine](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2057-count-salary-categories](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/CGUCB/codewars_leetcode_neetcode_solutions/tree/master/2087-confirmation-rate) |
 ## String Matching
 |  |
